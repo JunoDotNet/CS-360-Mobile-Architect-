@@ -13,19 +13,16 @@ Login Screen: Secure access for users.
 Weight Entry Screen: Log and view weight entries.
 SMS Permissions Screen: Manage SMS notifications.
 
-Design Success:
   Simplicity: Clear labels and easy navigation.
   Accessibility: Large buttons and readable text.
   Feedback: Immediate responses for actions.
 
 # Coding Approach
-Techniques:
   Modular Coding: Organized components for easier debugging.
   Reusability: Consistent and efficient code.
   Testing-Driven Development: Regular testing ensured functionality.
 
 # Testing and Debugging
-Process:
   Manual Testing: Tested on emulators and devices.
   Importance: Ensured a smooth user experience.
   Findings: Identified areas for optimization.
